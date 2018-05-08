@@ -1817,7 +1817,7 @@ header .logo a {
 		margin-bottom: 10px;
 	}
 }
-@media only screen and (max-width:768px){
+@media only screen and (min-width:481) and (max-width:768px){
 	#portfolio-wrapper .columns {
 		width: 33.33%;
 		margin-bottom: 10px;
